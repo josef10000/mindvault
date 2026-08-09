@@ -1,5 +1,7 @@
 # MindVault - Seu Segundo Cérebro & Sistema Operacional de Vida
 
+[![GitHub Repository](https://img.shields.io/badge/GitHub-josef10000%2Fmindvault-indigo?logo=github)](https://github.com/josef10000/mindvault)
+
 **MindVault** é uma plataforma de clareza mental e desenvolvimento pessoal que une o melhor do **Notion** (bancos de dados relacionais, tabelas de livros, fichas de treinos, rastreadores de hábitos e projetos) com o melhor do **Obsidian** (grafo neural de conhecimento, links bidirecionais `[[nota]]`, suporte a Markdown e velocidade).
 
 ---
